@@ -1,0 +1,10 @@
+:root {
+  --bg-gradient: linear-gradient(135deg, #1e3c72, #2a5298);
+  --card-bg: rgba(255, 255, 255, 0.08);
+  --text: #e6e8eb;
+  --muted: #9aa0a6;
+  --primary: #4f8cff;
+  --primary-hover: #3a73e6;
+  --radius: 16px;
+  --shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
